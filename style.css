@@ -57,6 +57,7 @@ body{
 .container img{
     height: 140px;
     width: 140px;
+    border-radius: 8px;
 }
 
 .container .bio {
